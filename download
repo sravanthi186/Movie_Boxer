@@ -1,0 +1,4 @@
+movie_booking
+data/*.db
+data/*.db-*
+__pycache__/
